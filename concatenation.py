@@ -1,3 +1,8 @@
+'''
+author:krishnapriya
+description:concatenated string.
+'''
+
 first_name=input("enter your first name")
 last_name=input("enter your second name")
 name=first_name+ " " +last_name
