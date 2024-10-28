@@ -1,3 +1,8 @@
+'''
+Author:krishnapriya
+description:a program that simulates a simple bank ATM system. The user has an initial balance of $1000. The ATM should display a menu with options to:
+date:28-10-2024
+'''
 balance_amount=1000
 while True:
     print("\n1.\tCheck Balance")
